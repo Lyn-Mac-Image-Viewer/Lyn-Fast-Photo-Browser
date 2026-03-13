@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://aktautouta.github.io/.github/lyn">  
+<a href="https://salidorandee.github.io/.github/lyn-image-viewer">  
 <img src="https://img.shields.io/badge/Get_Lyn-darkgreen?style=for-the-badge&logo=apple" alt="Get Lyn">  
 </a>  
 </div>  
